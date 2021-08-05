@@ -11,5 +11,7 @@
   Pip3
 </p>
 <h2>Installing</h2>
-<p>You can manually download from source https://github.com/sadath-ms/coding_assessment1</p>
+<p>You can manually download from source https://github.com/sadath-ms/coding_assessment1 <br>
+  cd coding_assessment1
+</p>
 
