@@ -3,3 +3,10 @@
 <h2>Getting Started</h2>
 <p>These instructions will get you a copy of the project up and running on your local machine for testing purposes.</p>
 
+<h2>Prerequisites</h2>
+<h3> Things you need to install the software and how to install them </h3>
+<p>
+  Python 3.6 and above
+  Pip3
+</p>
+
