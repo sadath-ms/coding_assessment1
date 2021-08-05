@@ -39,4 +39,17 @@
       <br>
       <b>Output</b> City 1 and City 2 are 335 km apart
     </p>
+ 
+ <h3>3.Email Sent</h3>
+    <p>
+      1.python send_email.py 
+      <br>
+      2.
+        <br>
+        Body ?"sending assessment message
+        <br>
+        Recipient? sadathmogal777@gmail.com
+      <br>
+      <b>Output</b> Email Sent
+    </p>
 
