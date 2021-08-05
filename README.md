@@ -15,3 +15,14 @@
   cd coding_assessment1
 </p>
 
+<h2>Testing</h2>
+
+<h3>1.Dictionary Search</h3>
+<p>
+  1.python dictionary_search.py 
+  <br>
+  2.Word?  house # enter input
+  <br>
+  <b>Output</b> house. transitive verb. Provide (a person or animal) with shelter or living quarters.
+</p>
+
