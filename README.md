@@ -7,6 +7,7 @@
 <h3> Things you need to install the software and how to install them </h3>
 <p>
   Python 3.6 and above
+  <br>
   Pip3
 </p>
 
